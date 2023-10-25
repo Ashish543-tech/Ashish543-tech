@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mayangmayumashish@gmail.com**
 
-- ⚡ Fun fact **I like reading fictional books**
+- ⚡ Fun fact **I like Crypto Mining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
