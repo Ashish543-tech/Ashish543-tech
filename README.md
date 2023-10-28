@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish543-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ashish543-tech" /> </p>
 
-- 🔭 I’m currently working on **Bank Management System**
+- 🔭 I’m currently working on **Chatting application**
 
-- 🌱 I’m currently learning **Spring Boot, Backend Development**
+- 🌱 I’m currently learning **Node Js, JavaScript**
 
-- 👯 I’m looking to collaborate on **Spring Boot, JDBC**
+- 👯 I’m looking to collaborate on **Java**
 
-- 💬 Ask me about **Java, Backend Development**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **mayangmayumashish@gmail.com**
 
